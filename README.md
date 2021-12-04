@@ -4,9 +4,14 @@ This was project was part of an introductory course to Software Engineering wher
 
 The Use-cases implemented in the project are:
 
-Login
+- Login
 
-Forgot Password
+- Forgot Password
+
+WHAT I LEARNT:
+- UML Diagrams - Use-case diagrams, Class Diagrams, Sequence Diagrams
+- Python Tkinter Library - for desktop applications
+- MySQL DB
 
 ![use-case-diagram](https://user-images.githubusercontent.com/51905418/144564882-9a216a9c-698d-4b6d-942b-73a0e4c0d3ff.PNG)
 
